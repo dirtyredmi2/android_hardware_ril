@@ -4551,6 +4551,11 @@ typedef struct {
  * GENERIC_FAILURE
  */
 #define RIL_REQUEST_SIM_GET_ATR 136
+<<<<<<< HEAD
+=======
+
+/***********************************************************************/
+>>>>>>> ef81620661457148e067c3f9e7f1ccbb703ae389
 
 /**
  * RIL_REQUEST_CAF_SIM_OPEN_CHANNEL_WITH_P2
